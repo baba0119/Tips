@@ -18,6 +18,11 @@ func setCookie(w http.ResponseWriter, r *http.Request) {
 	}
 	http.SetCookie(w, &c1)
 	http.SetCookie(w, &c2)
+
+	// 出力結果
+	// first_cookie="Go Web Programming"
+	// [first_cookie="Go Web Programming" second_cookie="Manning Publications Co"]
+	// (Name)=(Value)となる
 }
 
 func getCookie(w http.ResponseWriter, r *http.Request) {
