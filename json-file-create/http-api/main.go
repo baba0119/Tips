@@ -1,11 +1,13 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
+	"os"
 	"strconv"
 )
 
@@ -56,8 +58,24 @@ func main() {
 			return
 		}
 
+		// json のフォーマット
+		var buf bytes.Buffer
+		err = json.Indent(&buf, []byte(body), "", "  ")
+		if err != nil {
+			log.Fatal(err)
+			w.WriteHeader(http.StatusInternalServerError)
+			return
+		}
+		indentJson := buf.String()
+		err = os.WriteFile("ladder.json", []byte(indentJson), 0666)
+		if err != nil {
+			log.Fatal(err)
+			w.WriteHeader(http.StatusInternalServerError)
+			return
+		}
+
+		// 非構造化データのアンマーシャル
 		var jsonBody map[string]interface{}
-		// データが長すぎるとエラーが出る
 		err = json.Unmarshal(body, &jsonBody)
 		if err != nil {
 			log.Fatal(err)

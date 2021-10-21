@@ -1,0 +1,1719 @@
+{
+  "ladder": [
+    {
+      "id": "d448c5fe-11ed-4db6-8519-0cf6e956ab2e",
+      "ladderData": [
+        {
+          "id": "38f2f84b-641a-4771-bda0-0e7a7dea871f",
+          "isProof": true,
+          "isChoice": true,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": true
+          },
+          "ladderNode": {
+            "name": "Gpio2",
+            "info": "a",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "64d39bd6-3b25-484e-8330-c3cccfd9c6b3",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "Gpio3",
+            "info": "b",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5737c21e-5a8a-4fa8-85a3-06d3bbe034cd",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "d2ea45cd-b25a-4270-a122-df79e6ba727e",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "3614ac30-514b-4aea-a358-1add657b15ac",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "feecb559-9078-4f1e-bc20-a48f60b90196",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "a9464519-df0c-4669-b25a-63d91d6a4ee3",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "b0e98a48-1eff-45a2-804f-5db95aacb027",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "355a8c26-cbdb-4a87-9900-2500c7feba0d",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "64002927-83cc-46b2-bb6a-6c6c16d2ef2e",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "o1",
+            "info": "relay",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "878c0abf-a476-4e7f-acce-42c0a8d0e239",
+      "ladderData": [
+        {
+          "id": "5ebd3712-9933-4943-9812-9a30bb805450",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": true,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "o1",
+            "info": "a",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "59bac303-1a04-4c48-8985-5140053bcbaf",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "90de6fd4-6839-4ad3-b275-1acef136fc14",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "cea030d3-7ab4-4c46-b1d3-aa00c40d1429",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "d5b180f9-b71d-4821-8e6e-3a774d90391a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "2252f20f-8ff6-476a-8280-019dfffb57c2",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "aa3d35f3-5113-47bf-a904-8fa513a61b6e",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "2c2826ce-7cf5-4531-9076-ba96408f2961",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "6b388baa-3c40-4eba-8a21-0fa40de9329d",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "cd3431eb-4f9e-49c0-b515-1321b863f3b8",
+      "ladderData": [
+        {
+          "id": "2d798de7-71ed-4e61-acac-a9fff2883de8",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "o1",
+            "info": "a",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "32c2529f-73b9-4db3-8e0b-8c3c4e4a9e7a",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "1a59b11b-b5fc-48f3-a961-7cf0421245ec",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "bca79f43-4a00-46ab-963a-fe906460b73f",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "b9c48318-c5f5-4747-b44f-b7a52944730a",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "030a13db-9187-4824-90cf-efb7dd5dc65c",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "a396762e-24aa-4c0d-8f84-cc1c1170f0e1",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7a29e350-d013-445b-b716-d4cda53bee8f",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "3d788d64-8064-49ed-bef5-20127b31bcfa",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "contact",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f5220b40-3232-408d-9019-0a1af31675cf",
+          "isProof": true,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "Gpio4",
+            "info": "relay",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff6fbc57-1508-44f0-a007-71ba49aebf53",
+      "ladderData": [
+        {
+          "id": "edcfcd41-2ff2-42cd-a6f6-f5c3a7d067c0",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0433b67a-f932-41f1-aa5e-9e88fc63795a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "e4d4eabe-0877-40bf-8e89-2cb31590a0a5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "fda0bd5f-b40c-404e-9ddc-97cd1b1d21b9",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "c29b8da6-c69b-4e36-8147-19adb37ba886",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "2d6bb61a-88b0-465f-aa60-6881f26cd885",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "27838664-51be-4927-acdb-192a0a53e562",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "108d5b59-7dfa-4233-a1d2-227728e53040",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "668c8a7c-3eb4-43f4-adb5-f013fa504edf",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "2adc119b-5870-44a0-8cd3-63282061e30e",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "89d834ca-921b-4020-8b67-2426c7af93ad",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "45e54872-4463-422a-bb84-c479f44f3b33",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "1abecde5-47ea-4e32-8747-dc7a1c904715",
+      "ladderData": [
+        {
+          "id": "e78ebae0-14aa-4032-930a-3cd41c9dc4d6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "06b78753-0bfa-4ca1-aa4e-c6b61e864f71",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "9c823039-a189-4467-800f-b01b8fe50fb8",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "0fb9c0d0-359b-4ffd-a038-edeacf6cb42a",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "03b669c8-c229-45d5-95b5-d6e7de139752",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "455c7e2e-5ae8-42e1-8fee-aa38c3b787b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "256a4522-d00f-44aa-b6fb-960602d5e2ab",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "5d621496-8381-422e-8b07-697f40aedd00",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "f16ec8e3-dc9b-4fee-865b-ebf1ef8591b5",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        },
+        {
+          "id": "7db0bc2e-158b-4539-a01a-9e9ce8d3b2f6",
+          "isProof": false,
+          "isChoice": false,
+          "colState": {
+            "isUpCol": false,
+            "isDownCol": false
+          },
+          "ladderNode": {
+            "name": "",
+            "info": "",
+            "attr": "",
+            "attrInfo": null
+          }
+        }
+      ]
+    }
+  ],
+  "inputState": [
+    {
+      "nodeName": "Gpio2",
+      "ioState": false
+    },
+    {
+      "nodeName": "Gpio3",
+      "ioState": false
+    }
+  ]
+}
